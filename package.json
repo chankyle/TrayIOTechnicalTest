@@ -1,0 +1,19 @@
+{
+  "name": "trayiotechnicaltest",
+  "version": "1.0.0",
+  "description": "Tray IO Technical Test Submission",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chankyle/TrayIOTechnicalTest.git"
+  },
+  "author": "Kyle Chan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chankyle/TrayIOTechnicalTest/issues"
+  },
+  "homepage": "https://github.com/chankyle/TrayIOTechnicalTest#readme"
+}
